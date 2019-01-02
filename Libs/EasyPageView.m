@@ -8,7 +8,7 @@
 
 #import "EasyPageView.h"
 #import "NSTimer+Easy.h"
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 
 @interface EasyPageView() <UIScrollViewDelegate>
 

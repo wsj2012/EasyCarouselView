@@ -7,7 +7,7 @@
 //
 
 #import "EasyCarouselView.h"
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 #import "EasyPageViewItem.h"
 #import <SDWebImage/UIImageView+WebCache.h>
 

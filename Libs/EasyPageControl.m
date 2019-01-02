@@ -7,7 +7,7 @@
 //
 
 #import "EasyPageControl.h"
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 
 static const CGFloat kWidth = 5.5;
 static const CGFloat kHeight = 5.5;
