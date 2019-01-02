@@ -513,7 +513,7 @@
 
 - (NSTimeInterval)autoScrollInterval {
     if (_autoScrollInterval <= 0) {
-        return 5;
+        return 3;
     }
     return _autoScrollInterval;
 }

@@ -14,7 +14,6 @@
 @property (nonnull, strong) EasyCarouselView *carouselView;
 @property (nonatomic, strong) NSMutableArray *modelArr;
 
-
 @end
 
 @implementation ViewController
@@ -33,6 +32,7 @@
     self.carouselView.delegate = self;
     self.carouselView.pageView.pageControl.pageIndicatorTintColor = [UIColor colorWithRed:222/255.0 green:222/255.0 blue:222/255.0 alpha:1];
     self.carouselView.pageView.pageControl.currentPageIndicatorTintColor = [UIColor colorWithRed:85/255.0 green:85/255.0 blue:85/255.0 alpha:1];
+    self.carouselView.pageView.autoScrollInterval = 1;
     self.carouselView.layer.cornerRadius = 4.0f;
     self.carouselView.models = self.modelArr;
     [self.view addSubview:self.carouselView];

@@ -41,7 +41,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, assign) BOOL showPageIndicator; //default 'YES'
 
-@property (nonatomic, assign) NSTimeInterval autoScrollInterval; //default '5s'
+@property (nonatomic, assign) NSTimeInterval autoScrollInterval; //default '3s'
 
 @property (nonatomic, weak) id <EasyPageViewDataSource> dataSource;
 
