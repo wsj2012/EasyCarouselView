@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "EasyCarouselView"
-s.version      = "1.0.0"
+s.version      = "1.0.1"
 s.summary      = "OC版轮播广告、图片视图，带指示器视图。"
 s.homepage     = "https://github.com/wsj2012/EasyCarouselView"
 s.license      = "MIT"
