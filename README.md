@@ -98,6 +98,10 @@ pod 'EasyCarouselView'
 
 ```
 
+# Effect picture
+
+![EasyCarouselView](https://github.com/wsj2012/EasyCarouselView/blob/master/screenmov.gif?raw=true)
+
 ### 有疑问可参考Demo
 
 # License
