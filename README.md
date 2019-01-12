@@ -26,7 +26,7 @@ pod 'EasyCarouselView'
 
 ### Demo
 
-```swift
+```objective-c
 #import "EasyCarouselView.h"
 
 @interface ViewController () <EasyCarouselViewDelegate>
