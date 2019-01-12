@@ -1,11 +1,12 @@
 # EasyCarouselView
-===
+
+
 OC版轮播广告、图片视图，带指示器视图。
 
 # Features
-- 支持图片和指示器
-- 使用非系统的自定制指示器
-- 可调整指示器当前和正常各状态下的色值
+- Supporting pictures and indicators
+- Using non-system customized indicators
+- Can change the current and normal state of the indicator color value
 
 # Installation
 
@@ -17,15 +18,15 @@ pod 'EasyCarouselView'
 
 ### Old-fashioned way
 
-- 下载github项目到本地 
-- 添加Libs文件夹到自己的工程中
-- 添加依赖第三方库Masonry、SDWebImage
+- Downloaded EasyCarouseView of github project to locally 
+- Add Libs folder to your project
+- Add Dependent Third Party Libraries(Masonry、SDWebImage)
 
 # Usage
 
-### 使用demo
+### Demo
 
-```
+```swift
 #import "EasyCarouselView.h"
 
 @interface ViewController () <EasyCarouselViewDelegate>
@@ -102,7 +103,9 @@ pod 'EasyCarouselView'
 
 ![EasyCarouselView](https://github.com/wsj2012/EasyCarouselView/blob/master/screenmov.gif?raw=true)
 
-### 有疑问可参考Demo
+
+
+If  you have any questions, you can check the Demo.
 
 # License
 
